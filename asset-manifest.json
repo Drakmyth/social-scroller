@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/social-scroller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/social-scroller/static/js/main.f61d2a16.chunk.js",
+    "main.js.map": "/social-scroller/static/js/main.f61d2a16.chunk.js.map",
+    "runtime-main.js": "/social-scroller/static/js/runtime-main.025bf9db.js",
+    "runtime-main.js.map": "/social-scroller/static/js/runtime-main.025bf9db.js.map",
+    "static/js/2.07d15907.chunk.js": "/social-scroller/static/js/2.07d15907.chunk.js",
+    "static/js/2.07d15907.chunk.js.map": "/social-scroller/static/js/2.07d15907.chunk.js.map",
+    "index.html": "/social-scroller/index.html",
+    "precache-manifest.cc4c1ca58b9a2f869d772a1c42d0166d.js": "/social-scroller/precache-manifest.cc4c1ca58b9a2f869d772a1c42d0166d.js",
+    "service-worker.js": "/social-scroller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/social-scroller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.07d15907.chunk.js.LICENSE.txt": "/social-scroller/static/js/2.07d15907.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/social-scroller/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.025bf9db.js",
+    "static/js/2.07d15907.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f61d2a16.chunk.js"
+  ]
+}
